@@ -25,10 +25,15 @@ Opinionoted 是我們最後的成品。使用者可以搜尋特定的關鍵字�
 Repo: https://github.com/maxis1718/fb6likes
 
 ![Opinionoted Page](https://raw.githubusercontent.com/maxis1718/fb6likes/master/screenshots/opinionoted_1.jpg "Opinionoted Page")
+Opinionoted Landing Page
+
 
 ![Opinionoted Query](https://raw.githubusercontent.com/maxis1718/fb6likes/master/screenshots/opinionoted_2.jpg "Opinionoted Query")
+可以從中搜尋你想了解的關鍵字
+
 
 ![Opinionoted Graph](https://raw.githubusercontent.com/maxis1718/fb6likes/master/screenshots/opinionoted_3.jpg "Opinionoted Graph")
+用距離呈現，在不同話題，我跟朋友間的相似程度
 
 
 ### 火力十足的官方技術支援
