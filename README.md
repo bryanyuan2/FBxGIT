@@ -29,11 +29,11 @@ Opinionoted Landing Page
 
 
 ![Opinionoted Query](https://raw.githubusercontent.com/maxis1718/fb6likes/master/screenshots/opinionoted_2.jpg "Opinionoted Query")
-可以從中搜尋你想了解的關鍵字
+Opinionoted: 搜尋你想知道的關鍵字
 
 
 ![Opinionoted Graph](https://raw.githubusercontent.com/maxis1718/fb6likes/master/screenshots/opinionoted_3.jpg "Opinionoted Graph")
-用距離呈現，在不同話題，我跟朋友間的相似程度
+Opinionoted: 視覺化在不同話題中，我與朋友間的相似程度
 
 
 ### 火力十足的官方技術支援
