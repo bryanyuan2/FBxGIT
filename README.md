@@ -1,6 +1,6 @@
 ## FB x GIT Hack For A Cause 12小時公益黑客松
 
-#### bryanyuan2
+###### Author: bryanyuan2
 
 這次活動認識很多厲害的新朋友，謝謝 Janes S. 邀請，寫寫參與 FB x GIT Hack For A Cause 一些想法跟記錄
 
@@ -19,7 +19,8 @@
 那天，大家快速跑了一次 brainstorming，說明自己的想法；接著投票，決定自己支持誰的想法，或是放棄自己的提案；最後收斂各自想法，表達自己想做的作品雛形。真的很快，我們約花 30 分鐘確認方向跟主題，大家就分工往成品邁進。
 
 ### 我們做了什麼
-Opinionoted 是我們最後的成品。從 Facebook 的動態貼文中，視覺化的呈現自己與朋友間，談論話題的相似程度。
+Opinionoted 是我們最後的成品。使用者可以搜尋特定的關鍵字，我們從 Facebook 的動態貼文中，用距離遠近的視覺化概念，表達自己與朋友間談論特定話題的相似度。
+
 
 Repo: https://github.com/maxis1718/fb6likes
 
