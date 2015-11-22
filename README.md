@@ -50,3 +50,9 @@ Facebook 的技術支援火力非常強，我們這次部分成員雖有 Faceboo
 ![Our team](https://farm6.staticflickr.com/5631/23005978456_b2819d98af_b.jpg "Our team")
 非常用心的活動，大家都比讚，對吧 XD 只能淚推
 
+
+### 來源
+*  [Hack for a Cause 2015 Taiwan](http://girlsintech.gffu.net/hackathon.html)
+*  [Girls in Tech - Taiwan](https://www.facebook.com/Girls-in-Tech-Taiwan-393460757519655/?fref=ts)
+
+
